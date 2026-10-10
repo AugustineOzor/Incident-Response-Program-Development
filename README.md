@@ -7,14 +7,6 @@
 
 A project showing how a Security Operations Manager at an EHR provider builds an incident response program and keeps HIPAA breach notification on track. HealthTech Systems serves 200+ hospitals, holds PHI for over 2 million patients, and has 600 employees.
 
-## Contents
-
-| # | Document | What it covers |
-|---|---|---|
-| 1 | [Asset Inventory](docs/01-asset-inventory.md) | 4 systems and data stores in scope, with classification, owner and environment |
-| 2 | [Incident Register](docs/02-incident-register.md) | 3 sample incidents: phishing, PHI data breach, and an EHR availability outage |
-| 3 | [IR Control Catalog](docs/03-ir-control-catalog.md) | 8 incident response controls with framework references, effectiveness ratings and rationale |
-| 4 | [IR Tasks](docs/04-ir-tasks.md) | 5 remediation tasks that close the gaps found in the controls and incidents |
 
 ## How the documents connect
 
