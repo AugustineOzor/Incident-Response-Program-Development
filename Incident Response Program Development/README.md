@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="HealthTech Systems Incident Response Program Toolkit" width="100%">
+  <img width="2800" height="680" alt="banner" src="https://github.com/user-attachments/assets/3c81ca4c-1bb0-4106-aaf4-b966e2e38344" />
+
 </p>
 
 # HealthTech Systems: Incident Response Program Toolkit
 
-A fictional GRC portfolio project showing how a Security Operations Manager at an EHR provider builds an incident response program and keeps HIPAA breach notification on track. HealthTech Systems serves 200+ hospitals, holds PHI for over 2 million patients, and has 600 employees.
+A project showing how a Security Operations Manager at an EHR provider builds an incident response program and keeps HIPAA breach notification on track. HealthTech Systems serves 200+ hospitals, holds PHI for over 2 million patients, and has 600 employees.
 
 ## Contents
 
